@@ -4,8 +4,3 @@
 
 **ksol-rdpgw** is a lightweight ASP.NET application that brings **Remote Desktop Gateway (RDP Gateway)** functionality to your infrastructure. With easy plug-and-play integration, you can securely expose RDP services.
 
-## 📞 Support & Contribution
-
-- Found a bug? Want to suggest a feature? Open an [issue](https://github.com/mKenfenheuer/ksol-rdpgw/issues).
-- Contributions welcome via PRs!
-- License: GNU GPL v3
